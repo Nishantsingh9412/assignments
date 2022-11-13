@@ -1,0 +1,6 @@
+Q - 8 - Doubt --------------> Logic
+// https://www.geeksforgeeks.org/check-if-a-number-is-odd-or-even-using-bitwise-operators/
+Q- 7 - Doubt ---------------> 
+			Logic
+
+https://www.youtube.com/watch?v=noFeW2EagG8
