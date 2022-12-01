@@ -1,4 +1,5 @@
-!!  Use any loop !!
+#  Assignment 6  #
+#### Use any loop ####
 1. Write a program to calculate sum of first N natural numbers
 2. Write a program to calculate sum of first N even natural numbers
 3. Write a program to calculate sum of first N odd natural numbers
